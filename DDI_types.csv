@@ -1,0 +1,115 @@
+Order,Origin DDI's type,merged DDI type index
+1," 'metabolism',",8
+2," 'serum concentration',",2
+3," 'risk or severity of bleeding',",7
+4," 'anticoagulant activities',",20
+5," 'risk or severity of adverse effects',",7
+6," 'therapeutic efficacy',",14
+7," 'QTc-prolonging activities',",1
+8," 'cardiotoxic activities',",10
+9," 'serum concentration of active metabolites',",2
+10," 'excretion',",12
+11," 'hyperkalemic activities',",17
+12," 'nephrotoxic activities',",10
+13," 'absorption',",2
+14," 'risk or severity of renal failure',",10
+15," 'immunosuppressive activities',",15
+16," 'risk or severity of hyperkalemia',",17
+17," 'excretion rate of higher serum level',",12
+18," 'hepatotoxic activities',",10
+19," 'neuromuscular blocking activities',",3
+20," 'neurotoxic activities',",10
+21," 'bradycardic activities',",6
+22," 'atrioventricular blocking (AV block) activities',",6
+23," 'hypoglycemic activities',",5
+24," 'risk or severity of myelosuppression',",15
+25," 'hypercalcemic activities',",17
+26," 'arrhythmogenic activities',",6
+27," 'photosensitizing activities',",20
+28," 'risk or severity of QTc prolongation',",1
+29," 'serotonergic activities',",20
+30," 'thrombogenic activities',",2
+31," 'antiplatelet activities',",20
+32," 'risk or severity of myopathy and rhabdomyolysis',",13
+33," 'myopathic rhabdomyolysis activities',",13
+34," 'risk or severity of rhabdomyolysis, myoglobinuria, and elevated creatine kinase (CPK)',",13
+35," 'risk or severity of rhabdomyolysis',",13
+36," 'risk or severity of myopathy, rhabdomyolysis, and myoglobinuria',",13
+37," 'risk or severity',",7
+38," 'central nervous system depressant (CNS depressant) activities',",11
+39," 'neuroexcitatory activities',",3
+40," 'sedative activities',",19
+41," 'diagnostic agent',",20
+42," 'hyponatremic activities',",5
+43," 'antihypertensive activities',",18
+44," 'hypotensive activities',",18
+45," 'orthostatic hypotensive activities',",18
+46," 'risk or severity of angioedema',",16
+47," 'risk or severity of hypotension, nitritoid reactions, facial flushing, nausea, and vomiting',",18
+48," 'risk or severity of hypotension',",18
+49," 'hypotensive, nephrotoxic, and hyperkalemic activities',",10
+50," 'risk of hypersensitivity reaction to',",7
+51," 'risk or severity of anemia and severe leukopenia',",7
+52," 'vasodilatory activities',",16
+53," 'risk or severity of ventricular arrhythmias',",6
+54," 'risk or severity of renal failure and hyperkalemia',",17
+55," 'adverse neuromuscular activities',",3
+56," 'bioavailability',",20
+57," 'hypokalemic activities',",17
+58," 'fluid retaining activities',",20
+59," 'hypertensive activities',",18
+60," 'hypotensive and central nervous system depressant (CNS depressant) activities',",11
+61," 'central neurotoxic activities',",10
+62," 'anticholinergic activities',",20
+63," 'risk or severity of hypertension',",18
+64," 'risk or severity of convulsion',",7
+65," 'risk or severity of serotonin syndrome',",20
+66," 'stimulatory activities',",4
+67," 'tachycardic activities',",6
+68," 'risk or severity of sedation and somnolence',",19
+69," 'bronchoconstrictory activities',",9
+70," 'risk or severity of congestive heart failure and hypotension',",6
+71," 'vasoconstricting activities',",16
+72," 'bronchodilatory activities',",9
+73," 'analgesic activities',",20
+74," 'constipating activities',",12
+75," 'excretion rate',",12
+76," 'respiratory depressant activities',",15
+77," 'risk or severity of QTc prolongation, torsade de pointes, hypokalemia, hypomagnesemia, and cardiac arrest',",1
+78," 'antipsychotic activities',",3
+79," 'ulcerogenic activities',",13
+80," 'hypertensive and vasoconstricting activities',",18
+81," 'vasopressor activities',",16
+82," 'risk or severity of hypokalemia',",17
+83," 'risk or severity of ototoxicity and nephrotoxicity',",10
+84," 'diuretic activities',",12
+85," 'risk or severity of heart failure',",6
+86," 'protein binding',",20
+87," 'risk or severity of edema formation',",7
+88," 'risk or severity of fluid retention',",20
+89," 'hyperglycemic activities',",5
+90," 'risk or severity of severe leukopenia',",7
+91," 'risk or severity of hyponatremia',",17
+92," 'risk or severity of myopathy',",13
+93," 'dermatologic adverse activities',",13
+94," 'absorption of reduced serum concentration and potentially',",2
+95," 'myelosuppressive activities',",15
+96," 'risk or severity of hypotension and neuromuscular blockade',",18
+97," 'risk or severity of sinus node depression',",7
+98," 'risk or severity of generalized seizure and bradycardia',",6
+99," 'hypocalcemic activities',",20
+100," 'thrombocytopenic activities',",2
+101," 'neutropenic activities',",20
+102," 'risk or severity of bradycardia',",6
+103," 'ototoxic activities',",10
+104," 'risk or severity of QTc prolongation and torsade de pointes',",1
+105," 'teratogenic activities',",20
+106," 'risk or severity of renal failure and rhabdomyolysis',",13
+107," 'risk or severity of pulmonary toxicity',",10
+108," 'antineoplastic activities',",20
+109," 'hypotensive activities of at',",18
+110," 'central nervous system depressant (CNS depressant) and hypertensive activities',",11
+111," 'risk or severity of intraocular pressure',",7
+112," 'serum concentration of sulfate',",2
+113," 'risk or severity of generalized seizure',",7
+114, 'risk or severity of sedation',19
